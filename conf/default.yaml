@@ -1,0 +1,9 @@
+app:
+  name: fuzi-search
+  host: 0.0.0
+  port: 8082
+  debug: false
+
+bert:
+  device: cpu
+  model_name: peterchou/simbert-chinese-base
